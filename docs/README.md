@@ -30,7 +30,7 @@ For detailed information about each role, see: [Roles and Personas →](octoacme
 
 ### Communication
 
-Communication is a cornerstone of OctoAcme's methodology. The cadence includes daily team standups, weekly PM–PdM syncs, twice-weekly team standups, and monthly stakeholder updates. Templates for weekly status, risk reporting, and incident communication are used to ensure consistency. Escalation paths are clearly specified for blockers and incidents, rising from team triage up to sponsor-level intervention when necessary. After sprints or significant milestones, retrospectives are held to capture learnings, prioritize actionable improvements, and reinforce a culture of continuous improvement.
+Communication is a cornerstone of OctoAcme's methodology. The cadence includes regular team standups (frequency varies by team needs, typically daily or twice-weekly), weekly PM–PdM syncs, and monthly stakeholder updates. Templates for weekly status, risk reporting, and incident communication are used to ensure consistency. Escalation paths are clearly specified for blockers and incidents, rising from team triage up to sponsor-level intervention when necessary. After sprints or significant milestones, retrospectives are held to capture learnings, prioritize actionable improvements, and reinforce a culture of continuous improvement.
 
 For detailed communication strategies and escalation paths, see: [Risks and Communication →](octoacme-risks-and-communication.md)
 
